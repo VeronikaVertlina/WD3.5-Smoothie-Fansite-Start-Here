@@ -1,0 +1,9 @@
+body{
+  background-color: lightgrey;
+}
+h1{
+  color: blue;
+}
+img{
+  border-image: 50%;
+}
