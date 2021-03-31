@@ -2,10 +2,16 @@
 body{
   background-color: lightgrey;
 }
+
+div {
+  position: relative;
+}
+
 h1{
   color: red;
   font-size: 30px;
 }
+
 img:hover {
   background-color: gold;
   border-image: 50%;
